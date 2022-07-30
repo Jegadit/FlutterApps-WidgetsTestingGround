@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "61724701006",
+    "project_id": "finalappdonno",
+    "storage_bucket": "finalappdonno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61724701006:android:e7577f7fd5d0f346f66e1f",
+        "android_client_info": {
+          "package_name": "com.example.cupertino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61724701006-78gfqrl54ivuceurliqc5t0a17aapost.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cupertino",
+            "certificate_hash": "04a3a6e1a326a2431c9056adfd1d17c82b3aacf4"
+          }
+        },
+        {
+          "client_id": "61724701006-5he3p2b3uk2j4uldqhbsjivk4489g33l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG314FxSAU41ouWggE1SRSs8ZAKsqkxH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61724701006-5he3p2b3uk2j4uldqhbsjivk4489g33l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

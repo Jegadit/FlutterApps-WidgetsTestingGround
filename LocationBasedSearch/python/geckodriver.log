@@ -1,0 +1,249 @@
+1645363949805	geckodriver	INFO	Listening on 127.0.0.1:53572
+1645363952891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofile5f53rr"
+1645363953923	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofile5f53rr\\search.json.mozlz4", (void 0)))
+1645363958261	Marionette	INFO	Listening on port 53582
+1645363958378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645363967095	Marionette	INFO	Stopped listening on port 53582
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1645364175333	geckodriver	INFO	Listening on 127.0.0.1:53809
+1645364178415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilevKBRBp"
+1645364178979	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilevKBRBp\\search.json.mozlz4", (void 0)))
+1645364183019	Marionette	INFO	Listening on port 53818
+1645364183212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645364232596	geckodriver	INFO	Listening on 127.0.0.1:53914
+1645364235718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileNJYwd8"
+1645364236448	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileNJYwd8\\search.json.mozlz4", (void 0)))
+1645364239953	Marionette	INFO	Listening on port 53923
+1645364240046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645364296642	geckodriver	INFO	Listening on 127.0.0.1:54026
+1645364299748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofiley5YE6S"
+1645364300484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofiley5YE6S\\search.json.mozlz4", (void 0)))
+1645364303753	Marionette	INFO	Listening on port 54038
+1645364303958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645364332067	geckodriver	INFO	Listening on 127.0.0.1:54116
+1645364335167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileZm73zr"
+1645364335677	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileZm73zr\\search.json.mozlz4", (void 0)))
+1645364339459	Marionette	INFO	Listening on port 54126
+1645364339978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645364531257	Marionette	INFO	Stopped listening on port 54126
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilexVe6Lq"
+1645364401360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilexVe6Lq\\search.json.mozlz4", (void 0)))
+1645364404919	Marionette	INFO	Listening on port 54240
+1645364405001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645364532218	Marionette	INFO	Stopped listening on port 54240
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilejHOYfY"
+1645364492817	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilejHOYfY\\search.json.mozlz4", (void 0)))
+1645364495864	Marionette	INFO	Listening on port 54382
+1645364496381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645364536331	Marionette	INFO	Stopped listening on port 54382
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofile2nomFM"
+1645364525114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofile2nomFM\\search.json.mozlz4", (void 0)))
+1645364528594	Marionette	INFO	Listening on port 54470
+1645364528721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645364537959	Marionette	INFO	Stopped listening on port 54470
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645365322797	geckodriver	INFO	Listening on 127.0.0.1:57846
+1645365325919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileob14TH"
+1645365326254	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileob14TH\\search.json.mozlz4", (void 0)))
+1645365328295	Marionette	INFO	Listening on port 57854
+1645365328590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645365369247	geckodriver	INFO	Listening on 127.0.0.1:57948
+1645365372295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofile0TkKFx"
+1645365372593	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofile0TkKFx\\search.json.mozlz4", (void 0)))
+1645365374269	Marionette	INFO	Listening on port 57958
+1645365374338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645365410895	geckodriver	INFO	Listening on 127.0.0.1:58040
+1645365413975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileVN7CRd"
+1645365414270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileVN7CRd\\search.json.mozlz4", (void 0)))
+1645365415963	Marionette	INFO	Listening on port 58052
+1645365416030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645365699188	geckodriver	INFO	Listening on 127.0.0.1:54729
+1645365702235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilepUEz3Q"
+1645365702551	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilepUEz3Q\\search.json.mozlz4", (void 0)))
+1645365704298	Marionette	INFO	Listening on port 54739
+1645365704396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645365750385	geckodriver	INFO	Listening on 127.0.0.1:54825
+1645365753439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileJRee4b"
+1645365753732	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileJRee4b\\search.json.mozlz4", (void 0)))
+1645365755455	Marionette	INFO	Listening on port 54835
+1645365755493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645365791413	geckodriver	INFO	Listening on 127.0.0.1:54910
+1645365794496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileJly01H"
+1645365794838	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileJly01H\\search.json.mozlz4", (void 0)))
+1645365796930	Marionette	INFO	Listening on port 54919
+1645365797156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645365828381	geckodriver	INFO	Listening on 127.0.0.1:55005
+1645365831461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileHc5CBi"
+1645365831763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileHc5CBi\\search.json.mozlz4", (void 0)))
+1645365833475	Marionette	INFO	Listening on port 55015
+1645365833513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645365950454	geckodriver	INFO	Listening on 127.0.0.1:55144
+1645365953475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileZbY5sQ"
+1645365953802	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileZbY5sQ\\search.json.mozlz4", (void 0)))
+1645365955518	Marionette	INFO	Listening on port 55154
+1645365955610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/explore/locations/, line 56: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/explore/locations/, line 56: TypeError: window.__bufferedErrors is undefined
+1645366130846	geckodriver	INFO	Listening on 127.0.0.1:64675
+1645366133933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileD7MSoV"
+1645366134236	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileD7MSoV\\search.json.mozlz4", (void 0)))
+1645366135923	Marionette	INFO	Listening on port 64689
+1645366136006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645366174713	geckodriver	INFO	Listening on 127.0.0.1:64764
+1645366177752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilenWJ992"
+1645366178118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilenWJ992\\search.json.mozlz4", (void 0)))
+1645366179900	Marionette	INFO	Listening on port 64772
+1645366179942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645366284676	geckodriver	INFO	Listening on 127.0.0.1:63657
+1645366287745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileTpikzU"
+1645366288054	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileTpikzU\\search.json.mozlz4", (void 0)))
+1645366289794	Marionette	INFO	Listening on port 63670
+1645366289901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645366317095	geckodriver	INFO	Listening on 127.0.0.1:63744
+1645366320176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileJH94P5"
+1645366320479	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileJH94P5\\search.json.mozlz4", (void 0)))
+1645366322224	Marionette	INFO	Listening on port 63756
+1645366322327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645366399418	Marionette	INFO	Stopped listening on port 63756
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+nabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilecsyLxx\\search.json.mozlz4", (void 0)))
+1645366384799	Marionette	INFO	Listening on port 63856
+1645366384837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645366396724	Marionette	INFO	Stopped listening on port 63856
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645366401719	geckodriver	INFO	Listening on 127.0.0.1:63928
+1645366404789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofiledF7OkW"
+1645366405088	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofiledF7OkW\\search.json.mozlz4", (void 0)))
+1645366406877	Marionette	INFO	Listening on port 63938
+1645366406964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645366414510	Marionette	INFO	Stopped listening on port 63938
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645366423873	geckodriver	INFO	Listening on 127.0.0.1:64002
+1645366426934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofile8OozKb"
+1645366427230	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofile8OozKb\\search.json.mozlz4", (void 0)))
+1645366428968	Marionette	INFO	Listening on port 64012
+1645366429089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645366432324	Marionette	INFO	Stopped listening on port 64012
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645366464314	geckodriver	INFO	Listening on 127.0.0.1:64094
+1645366467364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilevlS6Bk"
+1645366467673	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilevlS6Bk\\search.json.mozlz4", (void 0)))
+1645366469664	Marionette	INFO	Listening on port 64105
+1645366470038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645366494896	geckodriver	INFO	Listening on 127.0.0.1:64220
+1645366497974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilePlbrmP"
+1645366498263	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofilePlbrmP\\search.json.mozlz4", (void 0)))
+1645366499976	Marionette	INFO	Listening on port 64230
+1645366500014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645366521137	Marionette	INFO	Stopped listening on port 64230
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645366986393	geckodriver	INFO	Listening on 127.0.0.1:59555
+1645366989459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileyHQK3b"
+1645366989776	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileyHQK3b\\search.json.mozlz4", (void 0)))
+1645366991468	Marionette	INFO	Listening on port 59565
+1645366991520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645367087546	geckodriver	INFO	Listening on 127.0.0.1:63816
+1645367090593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofile1cuKBa"
+1645367090910	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofile1cuKBa\\search.json.mozlz4", (void 0)))
+1645367092615	Marionette	INFO	Listening on port 63826
+1645367092652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645367192284	Marionette	INFO	Stopped listening on port 63826
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+)
+1645367184766	Marionette	INFO	Listening on port 63953
+1645367185215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645367190471	Marionette	INFO	Stopped listening on port 63953
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645367201101	geckodriver	INFO	Listening on 127.0.0.1:64026
+1645367204185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileZ8Pmzc"
+1645367204490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofileZ8Pmzc\\search.json.mozlz4", (void 0)))
+1645367206208	Marionette	INFO	Listening on port 64036
+1645367206253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645367354816	Marionette	INFO	Stopped listening on port 64036
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645367366725	geckodriver	INFO	Listening on 127.0.0.1:64239
+1645367369777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofile1fCMoH"
+1645367370103	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jegadit\\AppData\\Local\\Temp\\rust_mozprofile1fCMoH\\search.json.mozlz4", (void 0)))
+1645367371868	Marionette	INFO	Listening on port 64249
+1645367372136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645367394457	Marionette	INFO	Stopped listening on port 64249
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
